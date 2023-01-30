@@ -37,19 +37,19 @@ flex: 1;
     background-color: yellow;
 }
 .pad2{
-    background-color: #656565;
+    background-color: orange;
 }
 .pad3{
-    background-color: #646464;
+    background-color: brown;
 }
 .pad4{
-    background-color: #757575;
+    background-color: red;
 }
 .pad5{
-    background-color: #535353;
+    background-color: green;
 }
 .pad6{
-    background-color: #959595;
+    background-color: olive;
 }
 @keyframes jump{
     0%{
